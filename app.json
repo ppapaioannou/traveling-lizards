@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Trip Countdown",
+    "slug": "trip-countdown",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
